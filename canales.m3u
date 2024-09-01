@@ -1,3 +1,2 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://teleclub.xyz/images/icon.png" group-title="About",Prueba
-http://tv.teleclub.xyz/lista/canales.m3u
+#EXTINF:-1 http://tv.teleclub.xyz/lista/canales.m3u
